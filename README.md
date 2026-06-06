@@ -1,5 +1,4 @@
 <!-- STARTER GLOWING HEADER -->
-و
 ![Mina's Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=MINA%20SABIR&fontSize=50&animation=twinkling&fontColor=ffffff)
 <h1>👋 Hey! Nice to see you.</h1>
 
