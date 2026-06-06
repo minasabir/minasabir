@@ -1,8 +1,6 @@
 <!-- STARTER GLOWING HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=MINA%20SABIR&fontSize=50&animation=twinkling&fontColor=ffffff" width="100%" alt="Mina's Header" />
-</p>
-
+و
+![Mina's Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=MINA%20SABIR&fontSize=50&animation=twinkling&fontColor=ffffff)
 <h1>👋 Hey! Nice to see you.</h1>
 
 <p>
