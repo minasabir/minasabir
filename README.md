@@ -145,8 +145,8 @@ Premium full-stack educational portal indexing multi-tier admission coordination
 <tr>
 <td>
 
-<a href="https://github.com/minasabir/Elmotalq">
-<b>Elmotalq</b>
+<a href="https://github.com/minasabir/NTI-PROJECT">
+<b>NTI-PROJECT</b>
 </a>
 
 </td>
@@ -189,8 +189,8 @@ High-speed e-commerce furniture catalogue dashboard featuring dynamic client vie
 <tr>
 <td>
 
-<a href="https://github.com/minasabir/NTI-PROJECT">
-<b>NTI-PROJECT</b>
+<a href="https://github.com/minasabir/Elmotalq">
+<b>Elmotalq</b>
 </a>
 
 </td>
