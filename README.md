@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mina Sabir (Yousab Mina Gad)
+# Mina Sabir 
 
 ### Full-Stack Web Developer • Backend Engineer • Software Architect
 
